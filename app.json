@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/components/signatureDishes/signatureDishes",
+    "pages/components/staples/staples",
+    "pages/components/drinks/drinks",
+    "pages/components/snacks/snacks",
+    "pages/components/fruits/fruits"
+   
+   
+  ],
+  "window": {
+    "backgroundColor": "#f4f4f4",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "美食汇微菜单",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
